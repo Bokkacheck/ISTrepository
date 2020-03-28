@@ -1,0 +1,14 @@
+<!ELEMENT fakultet (student)*>
+<!ELEMENT student (osoba,upisi+)>
+<!ELEMENT osoba (ime,prezime,mestoRodjenja,datumRodjenja)>
+<!ELEMENT ime (#PCDATA)>
+<!ELEMENT prezime (#PCDATA)>
+<!ELEMENT mestoRodjenja (#PCDATA)>
+<!ELEMENT datumRodjenja (#PCDATA)>
+<!ELEMENT upisi (semestar+)>
+<!ELEMENT semestar EMPTY>
+<!ATTLIST semestar broj CDATA #REQUIRED
+				   godina CDATA #REQUIRED
+				   vrsta (budzet|saf) #REQUIRED>
+<!ATTLIST student status (studira|diplomirao) #REQUIRED
+				  indeks ID #REQUIRED>

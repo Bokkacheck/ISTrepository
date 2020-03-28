@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE fakultet SYSTEM "fakultet.dtd">
+<fakultet>
+  <student indeks="nrt417" status="studira">
+    <osoba>
+      <ime>Bojan</ime>
+      <prezime>Stojkovic</prezime>
+      <mestoRodjenja>Beograd</mestoRodjenja>
+      <datumRodjenja>14.09.1997</datumRodjenja>
+    </osoba>
+    <upisi>
+      <semestar broj="1" godina="1" vrsta="budzet"/>
+    </upisi>
+    <upisi>
+      <semestar broj="2" godina="1" vrsta="budzet"/>
+    </upisi>
+    <upisi>
+      <semestar broj="3" godina="2" vrsta="budzet"/>
+    </upisi>
+    <upisi>
+      <semestar broj="4" godina="2" vrsta="budzet"/>
+    </upisi>
+    <upisi>
+      <semestar broj="5" godina="3" vrsta="budzet"/>
+    </upisi>
+    <upisi>
+      <semestar broj="6" godina="3" vrsta="budzet"/>
+    </upisi>
+  </student>
+</fakultet>
