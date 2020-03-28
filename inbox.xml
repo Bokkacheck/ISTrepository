@@ -10,7 +10,7 @@
     <mail:BCC></mail:BCC>
     <mail:title>Naslov prvog</mail:title>
     <mail:text>Zdravo bokis-bojannrt</mail:text>
-    <mail:datum day="28" month="03" year="2020"/>
+    <mail:date day="28" month="03" year="2020"/>
   </mail:message>
   <mail:message>
     <mail:sender>bojannrt417@gs.viser.edu.rs</mail:sender>
@@ -19,7 +19,7 @@
     <mail:BCC></mail:BCC>
     <mail:title>Naslov drugog</mail:title>
     <mail:text>Zdravo bojannrt-bokis</mail:text>
-    <mail:datum day="28" month="02" year="2020"/>
+    <mail:date day="28" month="02" year="2020"/>
   </mail:message>
 </mail:inbox>
 

@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd">
+
 <AutoOglas>
   <Automobil>
     <Proizvodjac>Opel</Proizvodjac>
     <Model tip ="C">Corsa</Model>
     <Godiste>2002</Godiste>
     <Farba tip="metalic">Siva</Farba>
-    <Zapremina>1400</Zapremina>
+    <Zapremina_motora jedinica="ccm" >1400</Zapremina_motora>
     <Transmisija tip="manuelni">5</Transmisija>
-    <Gorivo tng="true">benzin</Gorivo>
-    <Cena valuta="evro">1600</Cena>
+    <Gorivo tng="da">benzin</Gorivo>
+    <Cena valuta="eur">1600</Cena>
     <Kontakt>0641231231</Kontakt>
   </Automobil>
   <Automobil>
@@ -17,10 +19,10 @@
     <Model tip ="3">C</Model>
     <Godiste>2003</Godiste>
     <Farba tip="metalic">Plava</Farba>
-    <Zapremina>1400</Zapremina>
+    <Zapremina_motora jedinica="ccm">1400</Zapremina_motora>
     <Transmisija tip="manuelni">5</Transmisija>
-    <Gorivo tng="false">dizel</Gorivo>
-    <Cena valuta="evro">1850</Cena>
+    <Gorivo tng="ne">dizel</Gorivo>
+    <Cena valuta="eur">1850</Cena>
     <Kontakt>0643213213</Kontakt>
   </Automobil>
 </AutoOglas>
