@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<MojiPodaci>
+  <PunoIme>
+    <ime>Bojan</ime>
+    <prezime>Bojan</prezime>
+  </PunoIme>
+  <DatumRodjenja>
+    <Dan>14</Dan>
+    <Mesec>09</Mesec>
+    <Godina>1997</Godina>
+  </DatumRodjenja>
+  <Adresa>
+    <Ulica>Slavka Kolara</Ulica>
+    <Naselje>Kotez</Naselje>
+    <Grad>Beograd</Grad>
+    <Drzava>Srbija</Drzava>
+    <Ptt>11210</Ptt>
+  </Adresa>
+</MojiPodaci>
