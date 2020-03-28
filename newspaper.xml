@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+  <ARTICLE AUTHOR="Bojan">
+    <HEADLINE>Naslov</HEADLINE>
+    <BYLINE>Podnaslov</BYLINE>
+    <LEAD>Lead</LEAD>
+    <BODY>Telo</BODY>
+    <NOTES>&CP;</NOTES>
+  </ARTICLE>
+  <ARTICLE AUTHOR="Pera" DATE="22.2.2020">
+    <HEADLINE>Naslov</HEADLINE>
+    <BYLINE>Podnaslov</BYLINE>
+    <LEAD>Lead</LEAD>
+    <BODY>Telo</BODY>
+    <NOTES>&CP;</NOTES>
+  </ARTICLE>
+</NEWSPAPER>
