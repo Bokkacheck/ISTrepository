@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--Definisanje sa :mail -->
+<mail:inbox xmlns:mail="http://viser.edu.rs/mail">
+  <mail:message>
+    <mail:sender>bokis97@live.com</mail:sender>
+    <mail:reviecer>bojannrt417@gs.viser.edu.rs</mail:reviecer>
+    <mail:CC></mail:CC>
+    <mail:BCC></mail:BCC>
+    <mail:title>Naslov prvog</mail:title>
+    <mail:text>Zdravo bokis-bojannrt</mail:text>
+    <mail:datum day="28" month="03" year="2020"/>
+  </mail:message>
+  <mail:message>
+    <mail:sender>bojannrt417@gs.viser.edu.rs</mail:sender>
+    <mail:reviecer>bokis97@live.com</mail:reviecer>
+    <mail:CC></mail:CC>
+    <mail:BCC></mail:BCC>
+    <mail:title>Naslov drugog</mail:title>
+    <mail:text>Zdravo bojannrt-bokis</mail:text>
+    <mail:datum day="28" month="02" year="2020"/>
+  </mail:message>
+</mail:inbox>
+
+<!--Bez :mail bi samo korenski inobx bio <inbox xmlns="http://viser.edu.rs/mail">-->
+<!--Nadalje nigde ne bi koristili prefiks za prostor imena jer bi podrazumevani bio postavljen na onaj koji treba-->
