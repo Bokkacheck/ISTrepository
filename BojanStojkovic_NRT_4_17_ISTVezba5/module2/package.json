@@ -1,0 +1,23 @@
+{
+  "name": "istmymodule2",
+  "version": "1.0.0",
+  "description": "module 2 IST",
+  "main": "module2.js",
+  "dependencies": {
+    "istmymodule1": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bokkacheck/ISTrepository.git"
+  },
+  "author": "bokkacheck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bokkacheck/ISTrepository/issues"
+  },
+  "homepage": "https://github.com/Bokkacheck/ISTrepository#readme"
+}
